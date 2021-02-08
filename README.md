@@ -30,6 +30,7 @@ Ready to release?
 For any issue discovered after the release, send hotfixes to `main` directly!
 
 * Create a `hotfix/v1-blabla` branch
+
 * Merge it both in `main` and `dev`.
 
 https://nvie.com/posts/a-successful-git-branching-model/
